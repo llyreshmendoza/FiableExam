@@ -1,7 +1,7 @@
 import { GridLocator } from './components/GridLocator/GridLocator';
 
 function App() {
-  return <GridLocator placement="1,1 NORTH" />;
+  return <GridLocator placement="0,0 SOUTH" />;
 }
 
 export default App;
